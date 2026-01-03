@@ -4,7 +4,8 @@
   "description": "LinkedIn automation tool",
   "main": "index.js",
   "dependencies": {
-    "@radix-ui/react-tooltip": "1.2.8"
+    "@radix-ui/react-tooltip": "1.2.8",
+    "next": "15.0.0"
   },
     "scripts": {
     "dev": "next dev",
