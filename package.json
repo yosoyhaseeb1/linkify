@@ -1,0 +1,9 @@
+{
+  "name": "linkedin-automation-tool",
+  "version": "1.0.0",
+  "description": "LinkedIn automation tool",
+  "main": "index.js",
+  "dependencies": {
+    "@radix-ui/react-tooltip": "1.2.8"
+  }
+}
