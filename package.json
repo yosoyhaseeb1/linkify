@@ -5,8 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "@radix-ui/react-tooltip": "1.2.8"
-  },//added by Haseeb for deployment 
-  "scripts": {
+  },
+    "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
