@@ -57,7 +57,7 @@ pk_live_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ---
 
-## 🚀 **Current Setup (Development)**
+//## 🚀 **Current Setup (Development)**
 
 Your Lynqio app is correctly configured with:
 
